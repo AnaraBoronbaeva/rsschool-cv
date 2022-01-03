@@ -1,1 +1,1 @@
-https://github.com/AnaraBoronbaeva/rsschool-cv/cv
+https://github.com/AnaraBoronbaeva/rsschool-cv/blob/main/cv.md
