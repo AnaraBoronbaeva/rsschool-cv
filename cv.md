@@ -26,7 +26,7 @@ e-mail:anara.boronbaeva@gmail.com
 2. [Codepen](https://codepen.io/Anara-Boronbaeva)
 
 *****************************
-### Образование 
+### Курсы  
 Изучаю FrontEnd в Jyldyz Academy  и в RS school 
 ***********************************************************************
 ### Английский язык
